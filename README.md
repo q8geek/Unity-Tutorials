@@ -15,7 +15,7 @@
 <div dir="rtl" style="text-align: right;">
   
 # المحتوى
-## - [الدرس الأول](https://www.youtube.com/watch?v=jNCt0Jh3gS4 "First Tutorial")
+## - [الدرس الأول](https://github.com/q8geek/Unity-Tutorials/tree/master/First%20Tutorial) - [لمشاهدة هذا الدرس](https://www.youtube.com/watch?v=jNCt0Jh3gS4)
 
 </div>
 
