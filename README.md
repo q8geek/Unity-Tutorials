@@ -1,1 +1,39 @@
-# Unity-Tutorials
+# دروس يونيتي باللغة العربي (اللهجة الكويتية)
+
+<div dir="rtl" style="text-align: right;">
+  
+  يُدرج هنا مجلدات مشاريع يونيتي التي تم شرحها في سلسلة فيديوهات حيّة في موقع [Twitch.tv](https://twitch.tv/q8geek "Twitch.tv") والمُعاد تصعيده في موقع [YouTube](https://www.youtube.com/playlist?list=PLDZu-0IA-DA-WCMvFllakKVbJqqSHG-5y "YouTube")
+
+</div>
+
+<div dir="rtl" style="text-align: right;">
+  
+  سيتم إضافة كل مجلد على سحب ترتيب الدروس
+
+</div>
+
+<div dir="rtl" style="text-align: right;">
+  
+# المحتوى
+## - [الدرس الأول](https://www.youtube.com/watch?v=jNCt0Jh3gS4 "First Tutorial")
+
+</div>
+
+<div dir="rtl" style="text-align: right;">
+  
+طريقة التثبيت:
+1. قم بتنزيل المجلد أو المرس المرغوب
+2. شغل برنامج "Unity Hub"
+3. في قائمة "Projects"، إضغط على "Add"
+4. إبحث عن المجلد أو الدرس الذي تم تنزيله
+
+</div>
+
+<br/>
+
+<div dir="rtl" style="text-align: right;">للاستفسار، يرجى التواصل معي خلال:
+
+- تويتر [@Q8GEEK](http://twitter.com/q8geek "@Q8GEEK")
+- إنستغرام [@Q8GEEK](http://instagram.com/q8geek "@Q8GEEK")
+
+</div>
