@@ -13,6 +13,12 @@
 </div>
 
 <div dir="rtl" style="text-align: right;">
+
+# يُتوقع من متابعي أو مشاهدي هذه السلسلة من الدروس إلمامهم بمبادئ لغة برمجة C#
+
+</div>
+
+<div dir="rtl" style="text-align: right;">
   
 # المحتوى
 ## - [الدرس الأول](https://github.com/q8geek/Unity-Tutorials/tree/master/First%20Tutorial) - [لمشاهدة هذا الدرس](https://www.youtube.com/watch?v=jNCt0Jh3gS4)
