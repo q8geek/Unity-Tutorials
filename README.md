@@ -22,7 +22,7 @@
   
 # المحتوى
 ## - [الدرس الأول](https://github.com/q8geek/Unity-Tutorials/tree/master/First%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/watch?v=jNCt0Jh3gS4)
-## - [الدرس الثاني](https://github.com/q8geek/Unity-Tutorials/tree/master/Second%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/NYt-Jgb0dqo)
+## - [الدرس الثاني](https://github.com/q8geek/Unity-Tutorials/tree/master/Second%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/TZBbHrA1BsA)
 
 
 </div>
