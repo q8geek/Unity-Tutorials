@@ -1,4 +1,4 @@
-# دروس يونيتي باللغة العربي (اللهجة الكويتية)
+# دروس يونيتي باللغة العربية (اللهجة الكويتية)
 
 <div dir="rtl" style="text-align: right;">
   
@@ -24,8 +24,8 @@
 ## - [الدرس الأول](https://github.com/q8geek/Unity-Tutorials/tree/master/First%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/jNCt0Jh3gS4)
 ## - [الدرس الثاني](https://github.com/q8geek/Unity-Tutorials/tree/master/Second%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/TZBbHrA1BsA)
 ## - [الدرس الثالث](https://github.com/q8geek/Unity-Tutorials/tree/master/Third%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/7zDofw8RMAU)
-## - [الدرس االرابع](https://github.com/q8geek/Unity-Tutorials/tree/master/Fourth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/7zDofw8RMAU)
-## - [الدرس االخامس](https://github.com/q8geek/Unity-Tutorials/tree/master/Fourth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/KwwZfgSdnIQ)
+## - [الدرس الرابع](https://github.com/q8geek/Unity-Tutorials/tree/master/Fourth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/7zDofw8RMAU)
+## - [الدرس الخامس](https://github.com/q8geek/Unity-Tutorials/tree/master/Fifth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/c566YZpKnWI)
 
 
 </div>
@@ -33,7 +33,7 @@
 <div dir="rtl" style="text-align: right;">
   
 طريقة التثبيت:
-1. قم بتنزيل المجلد أو المرس المرغوب
+1. قم بتنزيل المجلد أو الدرس المرغوب
 2. شغل برنامج "Unity Hub"
 3. في قائمة "Projects"، إضغط على "Add"
 4. إبحث عن المجلد أو الدرس الذي تم تنزيله
