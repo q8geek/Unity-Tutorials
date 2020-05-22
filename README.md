@@ -26,6 +26,7 @@
 ## - [الدرس الثالث](https://github.com/q8geek/Unity-Tutorials/tree/master/Third%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/7zDofw8RMAU)
 ## - [الدرس الرابع](https://github.com/q8geek/Unity-Tutorials/tree/master/Fourth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/7zDofw8RMAU)
 ## - [الدرس الخامس](https://github.com/q8geek/Unity-Tutorials/tree/master/Fifth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/c566YZpKnWI)
+## - [الدرس السادس](https://github.com/q8geek/Unity-Tutorials/tree/master/Sixth%20Tutorial) - [لمشاهدة هذا الدرس](https://youtu.be/1i043lfmqi4)
 
 
 </div>
